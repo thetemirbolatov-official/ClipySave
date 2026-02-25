@@ -1,16 +1,16 @@
-# Включить основные файлы
+# Основные файлы
 include README.md
 include LICENSE
 include requirements.txt
-include CHANGELOG.md
 
-# Включить папку с данными
+# Исходники
+recursive-include clipysave *.py
+
+# Данные
 recursive-include datas *.ico *.png *.icns
-
-# Включить тесты
-recursive-include tests *.py
 
 # Исключить ненужное
 exclude .gitignore
 exclude .github/*
-prune .github
+global-exclude __pycache__
+global-exclude *.pyc
