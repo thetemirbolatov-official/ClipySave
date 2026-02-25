@@ -1,6 +1,3 @@
-# Общий README.md для репозитория ClipySave
-
-```markdown
 # ClipySave v1.0.0
 
 <div align="center">
