@@ -1,7 +1,0 @@
-setup.py
-ClipySave.egg-info/PKG-INFO
-ClipySave.egg-info/SOURCES.txt
-ClipySave.egg-info/dependency_links.txt
-ClipySave.egg-info/entry_points.txt
-ClipySave.egg-info/requires.txt
-ClipySave.egg-info/top_level.txt
