@@ -1,0 +1,2 @@
+[console_scripts]
+clipy-save = clipy_save:main_cli
