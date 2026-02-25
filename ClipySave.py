@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-VK Video/Music Downloader
-Автор: @thetemirbolatov
-"""
-
 import os
 import sys
 import subprocess
@@ -52,7 +46,7 @@ def set_console_icon():
                     user32.SendMessageW(console_handle, 0x0080, 1, large_icon)  # WM_SETICON - large
                     
         except Exception as e:
-            pass  # Игнорируем ошибки с иконкой
+            pass  
 
 def show_logo():
     """Показывает логотип приложения"""
