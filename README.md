@@ -98,7 +98,7 @@
 
 ```bash
 # Установка из PyPI
-pip install clipysave
+pip install .
 
 # Или установка последней версии из GitHub
 pip install git+https://github.com/thetemirbolatov-official/ClipySave.git
