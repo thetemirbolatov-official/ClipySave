@@ -1,0 +1,6 @@
+yt-dlp
+instaloader
+requests
+beautifulsoup4
+aiohttp
+praw
